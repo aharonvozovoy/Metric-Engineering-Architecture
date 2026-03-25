@@ -1,3 +1,7 @@
+# видео (по ссылке) показывает изменение
+# вектора гравитации (локально) над семью 
+# люминисцентными лампами включённым параллельно, где центральная развернута нам 180 градусов по отношению к другим  (внизу экрана) , возникающее пои встречной интерференции эм волн.
+
 #https://www.facebook.com/share/v/17q7QtZrPu/
 # Aron Vozovoy | System Architect & Task Setter
 ## Engineering the Future of Metric Space-Time Deformation
